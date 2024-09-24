@@ -1,4 +1,8 @@
-Um programa que calcula a idade do usuário baseado na sua data de nascimento.
+ Um programa que calcula a idade do usuário baseado na sua data de nascimento.<br>
+  * RM:554113 - Juliana Moreira da Silva
+  * RM:552590 - Kevin Christian Nobre
+  * RM:553771 - Lucas Emanuel Basto
+  * RM:552728 - Sabrina do Couto Xavier Lima
   ### Steeps 
   * O usuário informa seu nome e sobrenome;
   * Informa o sua data de nascimento no formato dd/MM/yyyy (aceita / );
